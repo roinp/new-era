@@ -1,0 +1,241 @@
+PROMPT:
+
+Create a modern, professional, scalable, and fully responsive e-commerce website for a construction materials and tools marketplace.
+
+Project Overview
+
+The website should function as a complete online store for construction materials, building supplies, hardware products, tools, equipment, and related inventory. The design must be clean, modern, fast-loading, and optimized for desktop, tablet, and mobile devices.
+
+Main Features
+1. Homepage
+Modern hero section with promotional banners.
+Featured categories.
+Best-selling products.
+New arrivals.
+Special offers and discounts.
+Brand showcase section.
+Customer testimonials.
+Newsletter subscription.
+Contact information and location map.
+2. Product Categories
+
+Include a structured category system such as:
+
+Cement & Concrete
+Bricks & Blocks
+Sand & Gravel
+Steel & Reinforcement Materials
+Roofing Materials
+Insulation Materials
+Plumbing Supplies
+Electrical Supplies
+Paints & Coatings
+Flooring Materials
+Tiles & Ceramics
+Doors & Windows
+Drywall & Ceiling Systems
+Hand Tools
+Power Tools
+Safety Equipment
+Garden & Outdoor Materials
+Construction Machinery
+Fasteners & Hardware
+Adhesives & Sealants
+Industrial Equipment
+Other Building Materials
+
+Each category must support unlimited subcategories.
+
+3. Product Pages
+
+Each product should include:
+
+Multiple high-quality images.
+Product title.
+SKU / Product Code.
+Detailed description.
+Technical specifications.
+Price.
+Sale price option.
+Stock quantity.
+Availability status.
+Product gallery.
+Related products.
+Customer reviews and ratings.
+Downloadable PDF specifications.
+Product tags.
+4. Search & Filtering
+
+Advanced search system:
+
+Search by product name.
+Search by SKU.
+Search by category.
+Search by brand.
+Search by price range.
+Search by availability.
+
+Filters:
+
+Category
+Brand
+Price
+Rating
+Stock status
+5. Shopping Features
+Shopping cart.
+Wishlist.
+Product comparison.
+Quick view popup.
+Secure checkout.
+Guest checkout.
+User account system.
+Order tracking.
+Discount coupons.
+Shipping calculator.
+Invoice generation.
+6. User Accounts
+
+Users can:
+
+Register and log in.
+Manage profiles.
+View order history.
+Save favorite products.
+Download invoices.
+Manage addresses.
+Admin Panel (CMS)
+
+Create a powerful administrator dashboard with role-based access.
+
+Admin capabilities:
+
+Product Management
+Add new products.
+Edit products.
+Delete products.
+Upload multiple images.
+Manage categories and subcategories.
+Manage brands.
+Manage inventory.
+Bulk product import/export (Excel, CSV).
+Content Management
+Manage homepage banners.
+Manage promotions.
+Manage blog posts.
+Manage pages.
+Manage customer reviews.
+Order Management
+View all orders.
+Update order status.
+Generate invoices.
+Manage shipping information.
+User Management
+View users.
+Edit user accounts.
+Manage permissions.
+Analytics Dashboard
+Sales reports.
+Revenue analytics.
+Product performance.
+Customer statistics.
+Inventory reports.
+Blog Section
+
+Include a professional blog for:
+
+Construction tips.
+Product guides.
+Industry news.
+DIY tutorials.
+SEO content marketing.
+SEO Requirements
+SEO-friendly URLs.
+Meta titles and descriptions.
+Structured schema markup.
+XML sitemap.
+Robots.txt.
+Open Graph tags.
+Fast page loading.
+Core Web Vitals optimization.
+Technical Requirements
+
+Frontend:
+
+Next.js
+React
+TypeScript
+Tailwind CSS
+Framer Motion
+
+Backend:
+
+Node.js
+Express.js
+REST API
+
+Database:
+
+PostgreSQL
+
+Authentication:
+
+JWT Authentication
+Role-Based Access Control
+
+Storage:
+
+Cloudinary or AWS S3 for image uploads.
+
+Payment Integration:
+
+Stripe
+PayPal
+Bank Transfer option
+
+Security:
+
+SSL support
+CSRF protection
+XSS protection
+SQL Injection prevention
+Secure authentication
+Additional Features
+Multi-language support (English, Georgian, Russian).
+Multi-currency support.
+Live chat support.
+WhatsApp integration.
+Email notifications.
+SMS notifications.
+Product request feature.
+Quote request system for bulk orders.
+Recently viewed products.
+Frequently bought together section.
+Product recommendations using AI.
+Dark/Light mode.
+Design Requirements
+Premium and professional UI/UX.
+Construction industry branding.
+Modern typography.
+High-quality product cards.
+Smooth animations.
+Fully responsive design.
+Accessibility compliant (WCAG standards).
+Performance Requirements
+Page speed score above 90.
+Lazy loading images.
+Image optimization.
+CDN integration.
+Caching mechanisms.
+Optimized database queries.
+Deliverables
+Complete source code.
+Admin dashboard.
+Database schema.
+API documentation.
+Installation guide.
+Deployment guide.
+Production-ready architecture.
+Scalable and maintainable codebase.
+
+Build this project as a professional enterprise-grade construction materials marketplace capable of handling thousands of products, categories, users, and orders while maintaining excellent performance, security, and user experience.
