@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# stray locked copy left after moving app to repo root (delete after closing the editor)
+/era-shop/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
